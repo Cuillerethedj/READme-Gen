@@ -88,7 +88,8 @@ ${data.test}
 
 ## Questions
 
-${data.github}
+https://github.com/${data.github}
+
 
 ${data.email}
 
